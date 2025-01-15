@@ -24,5 +24,6 @@ My name is Eugene and I am an experienced QA engineer with 6 years of testing ex
 ## &#x1f4c8; GitHub Stats
 
 <a href="[https://github.com/es191]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es191&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es191&layout=compact&sort=language" />
+
 </a>
